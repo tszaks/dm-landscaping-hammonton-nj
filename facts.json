@@ -1,0 +1,98 @@
+{
+  "place_id": "ChIJU_H6XUwpwYkRXFtHGyX1mX0",
+  "name": "D&M LANDSCAPING",
+  "phone": "(609) 567-5471",
+  "phone_digits": "(609) 567-5471",
+  "address": "287 Waterford-Blue Anchor Rd, Hammonton, NJ 08037, USA",
+  "rating": "5",
+  "review_count": "9",
+  "hours": "Mon-Fri 8:00 AM-5:00 PM | Saturday 8:00 AM-12:00 PM",
+  "types": [
+    "general_contractor",
+    "point_of_interest",
+    "service",
+    "establishment"
+  ],
+  "confirmed_services": [
+    "lawn care",
+    "landscape design",
+    "cleanup",
+    "snow removal",
+    "mulching",
+    "hardscaping"
+  ],
+  "reviews": [
+    {
+      "stars": 5,
+      "author": "Raj S",
+      "text": "Have been working with Mike since I moved in 5 years ago.  He is always responsive and is willing to take on any project from hedges to drainage.  Prices are reasonable and work is immaculate.  I have recommended him to multiple neighbors.  Would definitely recommend for you!"
+    },
+    {
+      "stars": 5,
+      "author": "Blue Anchor Fence",
+      "text": "Michael & his crew have been caring for our property for many years. We wouldn't think of hiring anyone else. He keeps us looking great year round. He's easy to talk to and listens to his customer's landscape concerns."
+    },
+    {
+      "stars": 5,
+      "author": "Michael Quinn",
+      "text": "It's been about 10years since Mike and his men started cutting my yard they come every Friday and do a awesome job. I would definitely recommend!!"
+    }
+  ],
+  "website_check": {
+    "places_api": null,
+    "exa_search": "exa_error: HTTP Error 402: Payment Required",
+    "domain_check": null
+  },
+  "valid_target": true,
+  "website_evidence": [],
+  "email": "miked287@comcast.net",
+  "city": "Hammonton",
+  "state": "NJ",
+  "zip": "08037",
+  "business_name": "D&M Landscaping",
+  "trade": "landscaping",
+  "schema_type": "LandscapingBusiness",
+  "years_in_business": 5,
+  "railway_url": "",
+  "canonical_url": "",
+  "lat": 40.2,
+  "lng": -75.3,
+  "service_descriptions": {
+    "lawn care": "Regular lawn mowing, edging, and maintenance to keep your yard looking sharp.",
+    "landscape design": "Custom landscape design and installation to transform your outdoor space.",
+    "cleanup": "Seasonal cleanup including leaf removal, bed clearing, and property cleanup.",
+    "snow removal": "Residential and commercial snow removal to keep your property safe and accessible.",
+    "mulching": "Mulch installation to protect plant roots, retain moisture, and improve curb appeal.",
+    "hardscaping": "Patio, walkway, and retaining wall installation using stone, pavers, and concrete."
+  },
+  "faqs": [
+    {
+      "q": "Do you offer free estimates?",
+      "a": "Yes, we provide free estimates for all lawn care and landscaping projects."
+    },
+    {
+      "q": "Are you insured?",
+      "a": "Yes, we carry full liability insurance so your property is protected throughout every job."
+    },
+    {
+      "q": "Do you offer recurring maintenance plans?",
+      "a": "Yes, we offer weekly, bi-weekly, and monthly lawn care plans to keep your property looking great all season."
+    },
+    {
+      "q": "What areas do you serve?",
+      "a": "We serve the greater Philadelphia and surrounding area, including nearby towns and suburbs."
+    },
+    {
+      "q": "Do you handle both residential and commercial properties?",
+      "a": "Yes, we work with homeowners, property managers, and commercial clients throughout the area."
+    }
+  ],
+  "stat1_value": "5\u2605",
+  "stat1_label": "Google Rating",
+  "stat2_value": "9+",
+  "stat2_label": "Customer Reviews",
+  "stat3_value": "Free",
+  "stat3_label": "Estimates",
+  "stat4_value": "Licensed",
+  "stat4_label": "& Insured"
+}
